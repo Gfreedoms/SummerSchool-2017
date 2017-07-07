@@ -8,7 +8,7 @@ var multiply = function(e,f){
     return e*f;
 }
 var devide = function(g,h){
-    return g/h;
+    return g/h;// divide
 }
 console.log(add(2,3));
 console.log(subtract(5,1));
